@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/tmshv/fat-article/issues"
   },
-  "homepage": "https://github.com/tmshv/fat-article"
+  "homepage": "https://github.com/tmshv/fat-article",
+  "devDependencies": {
+    "should": "~3.2.0-beta1"
+  }
 }
