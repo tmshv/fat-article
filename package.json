@@ -1,0 +1,29 @@
+{
+  "name": "fat-article",
+  "version": "0.1.0",
+  "description": "Model object for `Fat` framework",
+  "main": "article.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmshv/fat-article.git"
+  },
+  "keywords": [
+    "fat",
+    "article",
+    "feed",
+    "rss",
+    "atom"
+  ],
+  "author": "Roman Timashev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmshv/fat-article/issues"
+  },
+  "homepage": "https://github.com/tmshv/fat-article"
+}
